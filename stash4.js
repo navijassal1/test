@@ -14,3 +14,9 @@ else if (a > b) {
 else {
     console.log(b, 'is greater')
 }
+
+for (let i = 0; i < 50; i++) {
+    console.log(i)
+}
+
+console.log('this is stash 4')
